@@ -110,7 +110,7 @@ Qual foi seu papel no projeto?
 
 # Comunicação & Liderança
 
-- **Liderança nos Marcos:** Atuou com autonomia?
+- **Liderança nos milestones:** Atuou com autonomia?
 - **Desenvolvimento de Outros ICs:** Como contribuiu para o crescimento dos colegas?
 - **Identificação Proativa de Problemas:** Exemplos de problemas identificados e resolvidos.
 - **Busca por Feedback:** Como solicitou feedbacks?
